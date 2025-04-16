@@ -1,6 +1,7 @@
 This road accident dashboard provides an overview of various accident statistics, such as casualties by type, vehicle, road conditions, and time.
 
 key insights:
+
 417,883 total casualties are reported. The most casualties involve cars (333,485), making up 79.8% of the total.
 Single carriageways are the most common location for accidents, accounting for 309.7k casualties.
 Dual carriageways follow with 67.4k, while roundabouts and other road types (like one-way streets) contribute far fewer casualties.
